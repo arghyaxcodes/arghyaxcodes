@@ -76,7 +76,7 @@ I'm **Arghya Ghosh**, a full-stack software developer based in Kolkata, India. C
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2026 - To: 16 October 2026
+From: 10 October 2026 - To: 17 October 2026
 
 TypeScript   2 mins                ████████████████████░░░░░   80.33 %
 JavaScript   0 secs                █████░░░░░░░░░░░░░░░░░░░░   19.67 %
